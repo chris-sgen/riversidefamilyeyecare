@@ -2,7 +2,7 @@
   "what": "Unofficial redesign preview of www.riversidefamilyeyecare.com, published for review. Not operated by, affiliated with or endorsed by Riverside Family Eye Care.",
   "preview": "https://chris-sgen.github.io/riversidefamilyeyecare/",
   "liveSite": "https://www.riversidefamilyeyecare.com/",
-  "generated": "2026-10-06T08:36:44.420Z",
+  "generated": "2026-10-06T09:19:07.771Z",
   "pages": 144,
   "files": 1074,
   "hardening": {
@@ -499,7 +499,7 @@
     }
   ],
   "verification": {
-    "measured": "at the public URL",
+    "measured": "on a local server serving the tree under the project path",
     "previewChecksVerdict": "PASS",
     "pageLoads": 286,
     "loopsPlayed": 5,
