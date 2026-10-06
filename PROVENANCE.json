@@ -1,0 +1,587 @@
+{
+  "what": "Unofficial redesign preview of www.riversidefamilyeyecare.com, published for review. Not operated by, affiliated with or endorsed by Riverside Family Eye Care.",
+  "preview": "https://chris-sgen.github.io/riversidefamilyeyecare/",
+  "liveSite": "https://www.riversidefamilyeyecare.com/",
+  "generated": "2026-10-06T08:05:19.704Z",
+  "pages": 144,
+  "files": 1074,
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "robotsTags": 144,
+    "noReferrerTags": 144,
+    "jsonLdBlocksRemoved": 1163,
+    "linkPreviewPictureTagsRemoved": 196,
+    "ogUrlRewritten": 144,
+    "siteNameRewritten": 144,
+    "descriptionsCarryingTheDisclosure": 144,
+    "pageDescriptionsReplaced": [
+      "/contact-us/appointment-request-form/",
+      "/contact-us/contact-form/",
+      "/contact-us/",
+      "/contact-us/patient-forms/"
+    ],
+    "mapFramesSentNoReferer": 143,
+    "searchIndexEntriesReducedToTheirTitle": [
+      "/contact-us/appointment-request-form/",
+      "/contact-us/contact-form/"
+    ],
+    "searchIndexSummariesBlanked": [
+      "/contact-us/",
+      "/contact-us/patient-forms/"
+    ],
+    "practiceFormsInert": 2,
+    "guardControlsAdded": 4,
+    "submitButtonsDisabled": 2,
+    "formNotices": 2,
+    "liveTextNotes": 3,
+    "linkCardTitlesMarked": 144,
+    "iconLinksRemoved": 288,
+    "linksRelievedOfAReferralCode": [
+      {
+        "page": "/",
+        "link": "alumiermd.com",
+        "now": "without its code"
+      },
+      {
+        "page": "/insurance/carecredit/",
+        "link": "carecredit.com/apply",
+        "now": "the live page"
+      }
+    ],
+    "formPageNotices": 2,
+    "twitterDescriptionTagsAdded": 9,
+    "paymentWidgetsNotLoaded": 1,
+    "paymentWidgetLoaderScriptsRemoved": 1,
+    "paymentWidgetFontSheetsRemoved": 1,
+    "practiceDocumentsNotShipped": [
+      {
+        "page": "/contact-us/patient-forms/",
+        "file": "HIPAA-Sig-Page-Riverside-Family-Eye-Care.pdf"
+      }
+    ],
+    "dataAddressesMadeRelative": 11,
+    "scriptsPatchedForTheVideoFrame": [
+      "assets/js/site.7445418903.js"
+    ],
+    "notShipped": [
+      "llms.txt",
+      "sitemap.xml",
+      "_redirects"
+    ],
+    "robotsTxt": "the private build's file is replaced by the preview's own (Disallow: /)",
+    "svgCleaned": [],
+    "filesNothingNamesNotShipped": 94
+  },
+  "generatedMedia": [
+    {
+      "file": "loop-water-night",
+      "kind": "loop",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame",
+      "pages": [
+        "/"
+      ]
+    },
+    {
+      "file": "still-ripple",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/",
+        "/autoimmune-disease-and-dry-eye-2023/",
+        "/cataract-surgery-co-management-your-path-to-clear-vision/",
+        "/category/news/",
+        "/dry-eyes-driving-you-crazy-heres-how-ipl-could-help/",
+        "/everything-you-need-to-know-about-uv-rays/",
+        "/eye-exam-faqs-what-to-expect-at-riverside-family-eye-care/",
+        "/eyes-a-window-into-your-health-2023/",
+        "/glaucoma-awareness-starts-with-an-eye-exam/",
+        "/how-poor-vision-could-stunt-your-childs-academic-performance/",
+        "/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/",
+        "/inmode-forma-and-lumecca-a-breakthrough-in-eye-care/",
+        "/myopia-management-strategies-for-growing-children/",
+        "/riverside-family-eyecares-guide-to-visual-hygiene-on-electronic-devices/",
+        "/scleral-contact-lenses-a-comfortable-and-effective-vision-correction-solution/",
+        "/sitemap/",
+        "/top-causes-of-dry-eye-in-fort-myers/",
+        "/what-every-mom-needs-to-know-before-booking-a-family-eye-exam-at-riverside-family-eyecar/",
+        "/what-happens-during-a-dry-eye-assessment-a-non-invasive-exam-for-gritty-eyes-in-fort-myers/",
+        "/what-to-expect-at-your-specialized-dry-eye-assessment/",
+        "/whats-new/",
+        "/why-regular-optometry-visits-are-crucial-for-managing-eye-conditions/",
+        "/why-some-dry-eye-treatments-dont-work-what-actually-does/",
+        "/winter-dry-eyes-2023/",
+        "/workplace-eye-wellness-tips-for-clearer-easier-workdays/"
+      ]
+    },
+    {
+      "file": "loop-ripple",
+      "kind": "loop",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame",
+      "pages": [
+        "/eye-care-services/dry-eye-disease-and-treatment/"
+      ]
+    },
+    {
+      "file": "still-drops",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/",
+        "/autoimmune-disease-and-dry-eye-2023/",
+        "/cataract-surgery-co-management-your-path-to-clear-vision/",
+        "/category/news/",
+        "/dry-eyes-driving-you-crazy-heres-how-ipl-could-help/",
+        "/everything-you-need-to-know-about-uv-rays/",
+        "/eye-care-services/",
+        "/eye-exam-faqs-what-to-expect-at-riverside-family-eye-care/",
+        "/eyes-a-window-into-your-health-2023/",
+        "/glaucoma-awareness-starts-with-an-eye-exam/",
+        "/how-poor-vision-could-stunt-your-childs-academic-performance/",
+        "/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/",
+        "/inmode-forma-and-lumecca-a-breakthrough-in-eye-care/",
+        "/myopia-management-strategies-for-growing-children/",
+        "/riverside-family-eyecares-guide-to-visual-hygiene-on-electronic-devices/",
+        "/scleral-contact-lenses-a-comfortable-and-effective-vision-correction-solution/",
+        "/sitemap/",
+        "/tag/dry-eye/",
+        "/tag/dry-eyes/",
+        "/top-causes-of-dry-eye-in-fort-myers/",
+        "/what-every-mom-needs-to-know-before-booking-a-family-eye-exam-at-riverside-family-eyecar/",
+        "/what-happens-during-a-dry-eye-assessment-a-non-invasive-exam-for-gritty-eyes-in-fort-myers/",
+        "/what-to-expect-at-your-specialized-dry-eye-assessment/",
+        "/whats-new/",
+        "/why-regular-optometry-visits-are-crucial-for-managing-eye-conditions/",
+        "/why-some-dry-eye-treatments-dont-work-what-actually-does/",
+        "/winter-dry-eyes-2023/",
+        "/workplace-eye-wellness-tips-for-clearer-easier-workdays/"
+      ]
+    },
+    {
+      "file": "still-compress",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/autoimmune-disease-and-dry-eye-2023/",
+        "/sitemap/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-winter",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/sitemap/",
+        "/tag/dry-eye/",
+        "/tag/dry-eyes/",
+        "/whats-new/",
+        "/winter-dry-eyes-2023/"
+      ]
+    },
+    {
+      "file": "still-kids-book",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/category/news/",
+        "/eye-care-services/",
+        "/myopia-management-strategies-for-growing-children/",
+        "/sitemap/",
+        "/tag/myopia-management-solutions/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "loop-kids",
+      "kind": "loop",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame",
+      "pages": [
+        "/eye-care-services/nearsighted-myopia/"
+      ]
+    },
+    {
+      "file": "still-kids-desk",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eye-care-services/eye-exams/",
+        "/eye-care-services/eye-exams/pediatric-eye-exams/",
+        "/how-poor-vision-could-stunt-your-childs-academic-performance/",
+        "/sitemap/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-family",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/category/news/",
+        "/sitemap/",
+        "/tag/family-eye-exams/",
+        "/what-every-mom-needs-to-know-before-booking-a-family-eye-exam-at-riverside-family-eyecar/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-trial-lenses",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/category/news/",
+        "/eye-care-services/management-of-ocular-diseases/",
+        "/glaucoma-awareness-starts-with-an-eye-exam/",
+        "/sitemap/",
+        "/tag/diabetic-retinopathy/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "loop-lenses",
+      "kind": "loop",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame",
+      "pages": [
+        "/eye-care-services/management-of-ocular-diseases/glaucoma/"
+      ]
+    },
+    {
+      "file": "still-loupe",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/author/riversidefamilyeyecare/",
+        "/category/news/",
+        "/eye-care-services/eye-exams/advanced-technology/",
+        "/eye-care-services/faq/",
+        "/insurance/",
+        "/insurance/faqs-of-vision-insurance-plans/",
+        "/sitemap/",
+        "/tag/eye-exam/",
+        "/tag/family-eye-exams/",
+        "/whats-new/",
+        "/why-regular-optometry-visits-are-crucial-for-managing-eye-conditions/"
+      ]
+    },
+    {
+      "file": "still-wellness",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyes-a-window-into-your-health-2023/",
+        "/sitemap/",
+        "/tag/diabetic-retinopathy/",
+        "/tag/eye-exam/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-tap",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/how-safe-is-it-to-rinse-your-eyes-with-tap-water-2023/",
+        "/sitemap/",
+        "/tag/dry-eye/",
+        "/whats-new/"
+      ]
+    },
+    {
+      "file": "still-contact-lens",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+        "/contact-lenses/gas-permeable-gp-contact-lenses/",
+        "/contact-lenses/toric-contact-lenses-for-astigmatism/",
+        "/eye-care-services/contact-lens-exams/",
+        "/eye-care-services/contact-lens-exams/hard-to-fit/",
+        "/eyeglasses/specialty-eyewear/",
+        "/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+        "/tag/all-about-vision/",
+        "/tag/gsp-contact-lens-exams/"
+      ]
+    },
+    {
+      "file": "loop-contacts",
+      "kind": "loop",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame",
+      "pages": [
+        "/contact-lenses/eye-exams-for-contact-lenses/"
+      ]
+    },
+    {
+      "file": "still-contacts-case",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/contact-lenses/disposable-contacts/"
+      ]
+    },
+    {
+      "file": "still-contacts-tray",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/"
+      ]
+    },
+    {
+      "file": "still-frames-row",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/eyeglass-basics/",
+        "/eyeglasses/eyeglass-basics/eyeglass-frames/"
+      ]
+    },
+    {
+      "file": "still-materials",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-lens-blanks",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/eyeglass-basics/",
+        "/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-lens-edge",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/"
+      ]
+    },
+    {
+      "file": "still-lens-care",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/lens-treatments/",
+        "/eyeglasses/lens-treatments/scratch-resistant/",
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/caring-for-lenses/"
+      ]
+    },
+    {
+      "file": "still-repair",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/frame-maintenance/"
+      ]
+    },
+    {
+      "file": "still-photochromic",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/photochromic-lenses/"
+      ]
+    },
+    {
+      "file": "still-readers",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/eyeglasses/prescription-eyeglasses/",
+        "/eyeglasses/prescription-eyeglasses/bifocal-lenses/"
+      ]
+    },
+    {
+      "file": "still-sun-sand",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/nonprescription-sunglasses/"
+      ]
+    },
+    {
+      "file": "still-sun-sport",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-sun-kids",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/sunglasses-for-kids/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-sun-case",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/eyeglasses/sunglasses/",
+        "/eyeglasses/sunglasses/prescription-sunglasses/"
+      ]
+    },
+    {
+      "file": "still-swim",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/eyeglasses/specialty-eyewear/",
+        "/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-safety",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/specialty-eyewear/",
+        "/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-shooting",
+      "kind": "still",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "pages": [
+        "/eyeglasses/specialty-eyewear/",
+        "/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-performance",
+      "kind": "still",
+      "madeWith": "Higgsfield: alibaba/qwen-image-3/text-to-image",
+      "pages": [
+        "/eyeglasses/specialty-eyewear/",
+        "/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+        "/tag/all-about-vision/"
+      ]
+    }
+  ],
+  "generatedStillsUsedWithARemark": [
+    {
+      "id": "still-lens-care",
+      "remark": "At four times enlargement the inner side of the far temple shows a blurred pale line about 120 px long in the 2752 px original. No character can be read; at page size it is not visible."
+    },
+    {
+      "id": "still-shooting",
+      "remark": "At three times enlargement the inner side of the left temple shows two specks about 18 by 55 px in the original. No character can be read; at page size it is not visible."
+    },
+    {
+      "id": "still-sun-sand",
+      "remark": "At four times enlargement the inner side of the far temple shows three blurred pale blocks about 130 px long in the original. No character can be read; at page size it is not visible."
+    }
+  ],
+  "verification": {
+    "measured": "on a local server serving the tree under the project path",
+    "previewChecksVerdict": "PASS",
+    "pageLoads": 286,
+    "loopsPlayed": 5,
+    "formTrials": {
+      "forms": 2,
+      "shipped": 4,
+      "control": 4,
+      "attributes": 4,
+      "guards": 4,
+      "enterPressed": 4,
+      "buttonClicked": 4
+    },
+    "addressAttributesRead": 29465,
+    "localReferencesResolvedAtBuild": 26795,
+    "binaries": {
+      "woff2": 8,
+      "mp4": 13,
+      "webp": 898
+    }
+  },
+  "pictures": {
+    "fromTheLiveSite": 222,
+    "practiceFilms": 3,
+    "pagesCarryingAPracticeFilm": [
+      "/eye-care-services/dry-eye-disease-and-treatment/",
+      "/team/jhonae-anglin/"
+    ],
+    "generatedLoopFiles": 10,
+    "pagesNamedAfterABrand": 17,
+    "ofThoseShowingAGeneratedPictureOnAnotherPagesCard": [
+      "/inmode-forma-and-lumecca-a-breakthrough-in-eye-care/"
+    ],
+    "teamInitialsTiles": 45
+  },
+  "linksThatLeaveThisCopy": {
+    "google.com": 287,
+    "youtube.com": 145,
+    "facebook.com": 144,
+    "yelp.com": 144,
+    "maps.app.goo.gl": 144,
+    "builder.eyeglassguide.com": 6,
+    "riversidefamilyeyecare.com": 3,
+    "infantsee.org": 1,
+    "alumiermd.com": 1,
+    "carecredit.com": 1,
+    "longafamilyeyecare.com": 1,
+    "get.adobe.com": 1
+  },
+  "handoffAudit": {
+    "gate": {
+      "verdict": "NOT-READY",
+      "pass": 22,
+      "fail": [
+        "C04",
+        "C06",
+        "C07",
+        "C16",
+        "C17",
+        "C20",
+        "C22"
+      ],
+      "unproven": 0
+    },
+    "textUnits": {
+      "checked": 5793,
+      "found": 5778,
+      "leftOutWithReason": 15,
+      "missing": 0
+    },
+    "meanRecall": 99.79,
+    "sweepIntroduced": {
+      "loads": 568,
+      "blocker": 0,
+      "major": 0,
+      "minor": 1084
+    },
+    "decontamination": "CLEAN",
+    "pictureFilesNotDownloaded": {
+      "total": 42,
+      "refused": 37,
+      "timedOut": 4,
+      "gone": 1
+    }
+  }
+}

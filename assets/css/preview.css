@@ -1,0 +1,8 @@
+/* preview.css: the notes this public preview adds to the pages (README, Hardening). */
+[data-preview-note] { margin: 0 0 1.5rem; padding: 0.9rem 1.1rem; border: 1px solid var(--line-2); border-left: 4px solid var(--coral); border-radius: var(--r-md); background: var(--paper); color: var(--text); font-size: var(--t-sm); line-height: 1.5; }
+[data-preview-note] a { color: var(--link); font-weight: 700; }
+.band--preview { padding-block: 1.5rem 0; background: var(--paper); }
+.band--preview [data-preview-note] { margin: 0; max-width: 46rem; }
+[data-preview-formstatus] { display: block; margin-top: 0.75rem; font-size: var(--t-sm); color: var(--text-2); }
+[data-preview="inert"] .form__submit[disabled], [data-preview="inert"] .form__submit[disabled]:hover { opacity: 0.55; cursor: not-allowed; transform: none; box-shadow: none; filter: none; }
+@media (max-width: 52.2em) { [data-preview-note] a { padding-block: calc((2.85rem - 1.17em) / 2); } }
