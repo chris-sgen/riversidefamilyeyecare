@@ -36,7 +36,7 @@ This is **not** a pixel-faithful clone. It is a redesign:
 
 These figures were measured by the pipeline and filled in from the measurement files. The first
 eight rows come from the handoff build's audit. The others were re-read from this tree. The
-browser figures (rendering, video loops, forms) were measured on a local server that serves this tree under `/riversidefamilyeyecare/` the way GitHub Pages serves a project site; it had not yet been re-measured at the public URL when this file was written. The tree has 144 pages: the 142 rebuilt ones plus `/404.html` and `/search/`, which the build makes itself. Tested in Chrome only.
+browser figures (rendering, video loops, forms) were measured at the public URL (https://chris-sgen.github.io/riversidefamilyeyecare/). The tree has 144 pages: the 142 rebuilt ones plus `/404.html` and `/search/`, which the build makes itself. Tested in Chrome only.
 
 | Check | Result |
 | --- | --- |
